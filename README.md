@@ -1,4 +1,4 @@
-# Aristotle NLP Model: Semantic Analysis of Classical Texts
+
 
 [English](#english) | [Português](#portuguese) | [Français](#french)
 
