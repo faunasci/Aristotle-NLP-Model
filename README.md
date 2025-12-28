@@ -1,7 +1,7 @@
 
 > **Vibe Code Alert**
 >
-> 99% vibe-coded and provided as-is. No support or updates. Code is ephemeral.
+> Vibe-coded, This Code is ephemeral, no support or updates.
 
 [English](#english) | [Português](#portuguese) | [Français](#french)
 
