@@ -1,4 +1,4 @@
-> [!CAUTION]
+
 > **Vibe Code Alert**
 >
 > 99% vibe-coded and provided as-is. No support or updates. Code is ephemeral.
